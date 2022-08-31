@@ -1,0 +1,16 @@
+{
+  "name": "tarjima-kinolar",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.19"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
